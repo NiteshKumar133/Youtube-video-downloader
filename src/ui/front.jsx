@@ -33,7 +33,7 @@ if(event.target.value === null){
    const options = {
     method: 'GET',
     headers: {
-      'X-RapidAPI-Key': '3b215790a3mshb91dab3bb8f30bap13aef7jsn3032f64824ed',
+      'X-RapidAPI-Key': get your own api key,
         'X-RapidAPI-Host': 'ytstream-download-youtube-videos.p.rapidapi.com'
     }
 };
